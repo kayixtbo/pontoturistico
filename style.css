@@ -14,3 +14,17 @@ a{
     color: blue;
     font-size: 25px;
 }
+
+.imgdesc {
+    width: 600px;
+    background-color: darkgrey;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.cont {
+    display: grid;
+    grid-auto-columns: auto;
+}
